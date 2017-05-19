@@ -2,34 +2,20 @@
 
 ### Diario de trabajo:
 
-#### Procesamiento de muestras
-Las librerías genómicas de las muestras de *Scomberomorus sierra* fueron procesadas mediante el protocolo de 3RAD.  Se cuenta con las siguientes muestras, provenientes de 9 localidades:
+#### Cambio de proyecto inicial (debido a que no llegaran mis secuencias a tiempo).
+Procesar datos ddRAD crudos de Berberis alpina y analizarlos de novo con una versión de Stacks distinta de la utilizada en el artículo.
 
-| **Individuos** | **Localidad** | 
-| -------------------- | --------------------| 
-| 30 | Baja California Sur | 
-| 30 | Mazatlán | 
-| 30 | Colima |
-| 30 | Michoacan | 
-| 30 | Oaxaca | 
-| 30 | Chiapas |
-| 16 | Costa Rica |
-| 30 | Perú |
-| 20 | Galapagos | 
-
-Hasta el momento se han procesado 192 individuos; aun se estan diseñando las sondas para poder proceder con la secuenciación.
-
-#### Manejo de las secuencias
-
- + **Pendiente** aun no han llegado los datos de las librerias.
- + Se está practicando con las muestras procesadas previamente para el diseño de las sondas; se esta desarrollando un script para llevar a cabo la limpieza de las secuencias. 
+#### Actividades:
++ Ya cuento con la versión 1.44 de STACKS (no en mi compputadora, no logro correr los TESTS, marca error en un supuesto archivo "setup" que no esta en ninguna carpeta descomprimida de STACKS), por lo cual utilizare la computadora de mi laboratorio.
++ Ya revise la metoología empleada en el articulo (los 2 experimentos) para replicarlos.
++ Ya descargue los archivos del repositorio.
++ Ya cuento con el programa para hacer la revisión de la calidad de las secuencias.
 
 #### Pendientes
-
-+ Se espera que las secuencias de las librerias genómicas hechas por medio de RADcap lleguen a principios del mes.
-+ Instalar Stacks a la computadora (propia) y BWA. 
-+ Terminar el script (que se ejecute adecuadamente) para las muestras "prueba".
-+ Revisar más artículos.
++ Hacer que Stacks funcione bien en computadora (propia). 
++ Descargar las muestras utilizadas en el articulo (ya intente por algunos metodos y no logro descargarlas).
++ Revisar más artículos. 
++ Pido apoyo en los "ISSUES" ya que no he podido descargar las secuencias que estan en SRA y me parece que no son las secuencias RAW.
 
 #### Articulos consultados
 + Hoffberg, S. L., T. J. Kieran, J. M. Catchen, A. Devault, B. Faircloth, R. Mauricio & T. C. Glenn. (2016) Adaptarema IV: Sequence Capture of Dual-digest RADseq Libraries with Identifiable Duplicates (RADcap).
