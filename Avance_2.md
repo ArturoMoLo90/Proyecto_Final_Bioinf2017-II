@@ -1,0 +1,23 @@
+# Avance 2
+
+### Diario de trabajo:
+
+#### Cambio de proyecto inicial (debido a que no llegaran mis secuencias a tiempo).
+
+Procesar datos de ddRAD crudos de *Berberis alpina* y analizarlos de novo con una versión de Stacks distinta de la utilizada en el artículo. 
+
+#### Actividades
+
+ + Ya cuento con la versión 1.44 de STACKS (no en mi computadora, no logre correr los TESTS, marca error en un archivo "setup", por lo cual utilizare la computadora de mi laboratorio.
+ + Revise la metodología empleada en el artículo (los 2 experimentos) para replicarlos.
+ Ya descargue los archivos del repositorio (marca error en el archivo de 1 stacks al descomprimirlo).
+
+#### Pendientes
+
++ Hacer que stacks funcione bien en mi computadora.
++ Descargar las muestras utilizadas en el articulo (ya intente algunos metodos y no logre descargarlos)
++ Revisar mas artículos.
+
+#### Articulos consultados
++ Hoffberg, S. L., T. J. Kieran, J. M. Catchen, A. Devault, B. Faircloth, R. Mauricio & T. C. Glenn. (2016) Adaptarema IV: Sequence Capture of Dual-digest RADseq Libraries with Identifiable Duplicates (RADcap).
++ Mastretta-Yanes, A., N. Arrigo. T.H. Jorgensen, D. Piñeros & B.C. Emerson. (2014) Restricition site-associated DNA sequencing, genotyping error estimation and de novo assemby optimization for population genetic inference. Molecular Ecology Resources. 1: (4-13).
