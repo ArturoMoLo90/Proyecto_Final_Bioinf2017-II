@@ -20,4 +20,4 @@ Procesar datos de ddRAD crudos de *Berberis alpina* y analizarlos de novo con un
 
 #### Articulos consultados
 
-+ Mastretta-Yanes, A., N. Arrigo. T.H. Jorgensen, D. Piñeros & B.C. Emerson. (2014) Restricition site-associated DNA sequencing, genotyping error estimation and de novo assemby optimization for population genetic inference. Molecular Ecology Resources. 1: (4-13).
++ Mastretta-Yanes, A., Arrigo, N., Jorgensen, T.H., Piñeros, D. & Emerson, B.C. (2015) Restricition site-associated DNA sequencing, genotyping error estimation and de novo assemby optimization for population genetic inference. Molecular Ecology Resources. 1: (4-13).
